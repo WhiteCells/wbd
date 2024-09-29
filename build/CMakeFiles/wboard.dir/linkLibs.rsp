@@ -1,0 +1,1 @@
+ C:/qc/6.5.3/mingw_64/lib/libQt6Widgets.a -lQt6::WebEnginePages D:/WBoard/ThirdParty/quazip/Debug/bin/quazip C:/qc/6.5.3/mingw_64/lib/libQt6Gui.a C:/qc/6.5.3/mingw_64/lib/libQt6Core.a -pthread -lmpr -luserenv -ld3d11 -ldxgi -ldxguid -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

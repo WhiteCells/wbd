@@ -1,0 +1,1719 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/WBoard/build/wboard_autogen",
+	"CMAKE_BINARY_DIR" : "D:/WBoard/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/WBoard/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/WBoard",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/WBoard/CMakeLists.txt",
+		"D:/WBoard/build/CMakeFiles/3.30.3/CMakeSystem.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake",
+		"D:/WBoard/build/CMakeFiles/3.30.3/CMakeCXXCompiler.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/GNU.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake",
+		"D:/WBoard/build/CMakeFiles/3.30.3/CMakeRCCompiler.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeRCInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-windres.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/FindWrapAtomic.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointMinGW32Target.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Core/QtInstallPaths.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindVulkan.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkPlugins.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginAdditionalTargetInfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake",
+		"C:/qc/6.5.3/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/WBoard",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/WBoard/build/wboard_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "wboard_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/WBoard/Source/adaptors/WBCFFAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBCFFAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBCFFSubsetAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBCFFSubsetAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBExportAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBExportAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBExportCFF.h",
+			"MU",
+			"RBZSULX5OK/moc_WBExportCFF.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBExportDocument.h",
+			"MU",
+			"RBZSULX5OK/moc_WBExportDocument.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBExportDocumentSetAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBExportDocumentSetAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBExportFullPDF.h",
+			"MU",
+			"RBZSULX5OK/moc_WBExportFullPDF.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBExportPDF.h",
+			"MU",
+			"RBZSULX5OK/moc_WBExportPDF.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBExportWeb.h",
+			"MU",
+			"RBZSULX5OK/moc_WBExportWeb.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBImportAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBImportAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBImportCFF.h",
+			"MU",
+			"RBZSULX5OK/moc_WBImportCFF.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBImportDocument.h",
+			"MU",
+			"RBZSULX5OK/moc_WBImportDocument.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBImportDocumentSetAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBImportDocumentSetAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBImportImage.h",
+			"MU",
+			"RBZSULX5OK/moc_WBImportImage.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBImportPDF.h",
+			"MU",
+			"RBZSULX5OK/moc_WBImportPDF.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBMetadataDcSubsetAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBMetadataDcSubsetAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBSvgSubsetAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBSvgSubsetAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/adaptors/WBThumbnailAdaptor.h",
+			"MU",
+			"RBZSULX5OK/moc_WBThumbnailAdaptor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/api/WBLibraryAPI.h",
+			"MU",
+			"DLLOSG33OO/moc_WBLibraryAPI.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/api/WBW3CWidgetAPI.h",
+			"MU",
+			"DLLOSG33OO/moc_WBW3CWidgetAPI.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/api/WBWidgetMessageAPI.h",
+			"MU",
+			"DLLOSG33OO/moc_WBWidgetMessageAPI.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/api/WBWidgetUniboardAPI.h",
+			"MU",
+			"DLLOSG33OO/moc_WBWidgetUniboardAPI.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBApplication.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBApplication.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBApplicationController.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBApplicationController.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBDisplayManager.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBDisplayManager.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBDocumentManager.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBDocumentManager.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBDownloadManager.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBDownloadManager.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBDownloadThread.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBDownloadThread.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBForeignObjectsHandler.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBForeignObjectsHandler.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBIdleTimer.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBIdleTimer.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBMimeData.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBMimeData.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBOpenSankoreImporter.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBOpenSankoreImporter.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBPersistenceManager.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBPersistenceManager.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBPersistenceWorker.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBPersistenceWorker.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBPreferencesController.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBPreferencesController.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBSceneCache.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBSceneCache.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBSetting.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBSetting.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBSettings.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBSettings.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/core/WBTextTools.h",
+			"MU",
+			"FIEV3ITJVN/moc_WBTextTools.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/customWidgets/WBActionableWidget.h",
+			"MU",
+			"WNQLWOCT6H/moc_WBActionableWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/customWidgets/WBGraphicsItemAction.h",
+			"MU",
+			"WNQLWOCT6H/moc_WBGraphicsItemAction.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/customWidgets/WBMediaWidget.h",
+			"MU",
+			"WNQLWOCT6H/moc_WBMediaWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/desktop/WBCustomCaptureWindow.h",
+			"MU",
+			"F2EMKPCRAY/moc_WBCustomCaptureWindow.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/desktop/WBDesktopAnnotationController.h",
+			"MU",
+			"F2EMKPCRAY/moc_WBDesktopAnnotationController.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/desktop/WBDesktopPalette.h",
+			"MU",
+			"F2EMKPCRAY/moc_WBDesktopPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/desktop/WBDesktopPropertyPalette.h",
+			"MU",
+			"F2EMKPCRAY/moc_WBDesktopPropertyPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/desktop/WBWindowCaptureDelegate_win.h",
+			"MU",
+			"F2EMKPCRAY/moc_WBWindowCaptureDelegate_win.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/document/WBDocumentContainer.h",
+			"MU",
+			"4ZZ4D7ZSFY/moc_WBDocumentContainer.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/document/WBDocumentController.h",
+			"MU",
+			"4ZZ4D7ZSFY/moc_WBDocumentController.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/document/WBDocumentProxy.h",
+			"MU",
+			"4ZZ4D7ZSFY/moc_WBDocumentProxy.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/document/WBSortFilterProxyModel.h",
+			"MU",
+			"4ZZ4D7ZSFY/moc_WBSortFilterProxyModel.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBDragableThumbnail.h",
+			"MU",
+			"27V5QFP3YK/moc_WBDragableThumbnail.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsDelegateFrame.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsDelegateFrame.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsGroupContainerItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsGroupContainerItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsGroupContainerItemDelegate.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsGroupContainerItemDelegate.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsItemDelegate.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsItemDelegate.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsItemGroupUndoCommand.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsItemGroupUndoCommand.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsItemTransformUndoCommand.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsItemTransformUndoCommand.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsItemUndoCommand.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsItemUndoCommand.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsItemZLevelUndoCommand.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsItemZLevelUndoCommand.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsMediaItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsMediaItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsMediaItemDelegate.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsMediaItemDelegate.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsPDFItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsPDFItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsPixmapItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsPixmapItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsPolygonItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsPolygonItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsProxyWidget.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsProxyWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsScene.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsScene.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsStroke.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsStroke.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsStrokesGroup.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsStrokesGroup.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsSvgItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsSvgItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsTextItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsTextItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsTextItemDelegate.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsTextItemDelegate.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsTextItemUndoCommand.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsTextItemUndoCommand.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsWidgetItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsWidgetItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsWidgetItemDelegate.h",
+			"MU",
+			"27V5QFP3YK/moc_WBGraphicsWidgetItemDelegate.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBPageSizeUndoCommand.h",
+			"MU",
+			"27V5QFP3YK/moc_WBPageSizeUndoCommand.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBResizableGraphicsItem.h",
+			"MU",
+			"27V5QFP3YK/moc_WBResizableGraphicsItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBSelectionFrame.h",
+			"MU",
+			"27V5QFP3YK/moc_WBSelectionFrame.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBUndoCommand.h",
+			"MU",
+			"27V5QFP3YK/moc_WBUndoCommand.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/frameworks/WBBase32.h",
+			"MU",
+			"DBXSBK5I4S/moc_WBBase32.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/frameworks/WBCoreGraphicsScene.h",
+			"MU",
+			"DBXSBK5I4S/moc_WBCoreGraphicsScene.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/frameworks/WBCryptoUtils.h",
+			"MU",
+			"DBXSBK5I4S/moc_WBCryptoUtils.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/frameworks/WBFileSystemUtils.h",
+			"MU",
+			"DBXSBK5I4S/moc_WBFileSystemUtils.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/frameworks/WBGeometryUtils.h",
+			"MU",
+			"DBXSBK5I4S/moc_WBGeometryUtils.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/frameworks/WBPlatformUtils.h",
+			"MU",
+			"DBXSBK5I4S/moc_WBPlatformUtils.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/frameworks/WBStringUtils.h",
+			"MU",
+			"DBXSBK5I4S/moc_WBStringUtils.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/frameworks/WBVersion.h",
+			"MU",
+			"DBXSBK5I4S/moc_WBVersion.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBActionPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBActionPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBBackgroundPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBBackgroundPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBBlackoutWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBBlackoutWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBBoardThumbnailsView.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBBoardThumbnailsView.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBCachePropertiesWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBCachePropertiesWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBCircleFrame.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBCircleFrame.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBColorPicker.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBColorPicker.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBDockDownloadWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBDockDownloadWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBDockPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBDockPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBDockPaletteWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBDockPaletteWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBDocumentNavigator.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBDocumentNavigator.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBDocumentThumbnailWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBDocumentThumbnailWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBDocumentToolsPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBDocumentToolsPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBDocumentTreeWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBDocumentTreeWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBDownloadWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBDownloadWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBFavoriteToolPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBFavoriteToolPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBFeaturesActionBar.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBFeaturesActionBar.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBFeaturesWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBFeaturesWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBFloatingPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBFloatingPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBIconButton.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBIconButton.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBKeyboardPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBKeyboardPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBLeftPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBLeftPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBMagnifer.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBMagnifer.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBMainWindow.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBMainWindow.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBMessageWindow.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBMessageWindow.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBMessagesDialog.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBMessagesDialog.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBMousePressFilter.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBMousePressFilter.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBOpenSankoreImporterWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBOpenSankoreImporterWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBPageNavigationWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBPageNavigationWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBPropertyPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBPropertyPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBResources.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBResources.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBRightPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBRightPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBRubberBand.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBRubberBand.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBScreenMirror.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBScreenMirror.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBSpinningWheel.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBSpinningWheel.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBStartupHintsPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBStartupHintsPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBStylusPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBStylusPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBThumbnailView.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBThumbnailView.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBThumbnailWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBThumbnailWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBToolWidget.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBToolWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBToolbarButtonGroup.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBToolbarButtonGroup.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBUpdateDlg.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBUpdateDlg.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBWebToolsPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBWebToolsPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBWidgetMirror.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBWidgetMirror.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/gui/WBZoomPalette.h",
+			"MU",
+			"I5QNHF2RDW/moc_WBZoomPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/network/UBCookieJar.h",
+			"MU",
+			"J44RUGJIPV/moc_UBCookieJar.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/network/UBHttpFileDownloader.h",
+			"MU",
+			"J44RUGJIPV/moc_UBHttpFileDownloader.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/network/UBServerXMLHttpRequest.h",
+			"MU",
+			"J44RUGJIPV/moc_UBServerXMLHttpRequest.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/network/WBAutoSaver.h",
+			"MU",
+			"J44RUGJIPV/moc_WBAutoSaver.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/network/WBHttpGet.h",
+			"MU",
+			"J44RUGJIPV/moc_WBHttpGet.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/network/WBNetworkAccessManager.h",
+			"MU",
+			"J44RUGJIPV/moc_WBNetworkAccessManager.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/ASCII85Decode.h",
+			"MU",
+			"KXKLPRWHX5/moc_ASCII85Decode.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/ASCIIHexDecode.h",
+			"MU",
+			"KXKLPRWHX5/moc_ASCIIHexDecode.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/AnnotsHandler.h",
+			"MU",
+			"KXKLPRWHX5/moc_AnnotsHandler.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/CCITTFaxDecode.h",
+			"MU",
+			"KXKLPRWHX5/moc_CCITTFaxDecode.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/ContentHandler.h",
+			"MU",
+			"KXKLPRWHX5/moc_ContentHandler.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/DCTDecode.h",
+			"MU",
+			"KXKLPRWHX5/moc_DCTDecode.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/Document.h",
+			"MU",
+			"KXKLPRWHX5/moc_Document.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/Filter.h",
+			"MU",
+			"KXKLPRWHX5/moc_Filter.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/FilterPredictor.h",
+			"MU",
+			"KXKLPRWHX5/moc_FilterPredictor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/FlateDecode.h",
+			"MU",
+			"KXKLPRWHX5/moc_FlateDecode.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/JBIG2Decode.h",
+			"MU",
+			"KXKLPRWHX5/moc_JBIG2Decode.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/LZWDecode.h",
+			"MU",
+			"KXKLPRWHX5/moc_LZWDecode.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/Merger.h",
+			"MU",
+			"KXKLPRWHX5/moc_Merger.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/Object.h",
+			"MU",
+			"KXKLPRWHX5/moc_Object.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/OverlayDocumentParser.h",
+			"MU",
+			"KXKLPRWHX5/moc_OverlayDocumentParser.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/Page.h",
+			"MU",
+			"KXKLPRWHX5/moc_Page.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/PageElementHandler.h",
+			"MU",
+			"KXKLPRWHX5/moc_PageElementHandler.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/Parser.h",
+			"MU",
+			"KXKLPRWHX5/moc_Parser.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/Rectangle.h",
+			"MU",
+			"KXKLPRWHX5/moc_Rectangle.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/RemoveHimselfHandler.h",
+			"MU",
+			"KXKLPRWHX5/moc_RemoveHimselfHandler.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/RunLengthDecode.h",
+			"MU",
+			"KXKLPRWHX5/moc_RunLengthDecode.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf-merger/Utils.h",
+			"MU",
+			"KXKLPRWHX5/moc_Utils.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf/GraphicsPDFItem.h",
+			"MU",
+			"P2L7UNDLG2/moc_GraphicsPDFItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf/PDFRenderer.h",
+			"MU",
+			"P2L7UNDLG2/moc_PDFRenderer.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf/UBWebPluginPDFWidget.h",
+			"MU",
+			"P2L7UNDLG2/moc_UBWebPluginPDFWidget.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/pdf/XPDFRenderer.h",
+			"MU",
+			"P2L7UNDLG2/moc_XPDFRenderer.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/podcast/WBAbstractVideoEncoder.h",
+			"MU",
+			"O3V3OUCFM7/moc_WBAbstractVideoEncoder.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/podcast/WBPodcastController.h",
+			"MU",
+			"O3V3OUCFM7/moc_WBPodcastController.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/podcast/WBPodcastRecordingPalette.h",
+			"MU",
+			"O3V3OUCFM7/moc_WBPodcastRecordingPalette.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/qtsingleapplication/qtlocalpeer.h",
+			"MU",
+			"CUCB3RKCFF/moc_qtlocalpeer.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/qtsingleapplication/qtlockedfile.h",
+			"MU",
+			"CUCB3RKCFF/moc_qtlockedfile.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/qtsingleapplication/qtsingleapplication.h",
+			"MU",
+			"CUCB3RKCFF/moc_qtsingleapplication.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBAbstractDrawRuler.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBAbstractDrawRuler.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBGraphicsCache.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBGraphicsCache.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBGraphicsCompass.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBGraphicsCompass.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBGraphicsCurtainItem.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBGraphicsCurtainItem.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBGraphicsCurtainItemDelegate.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBGraphicsCurtainItemDelegate.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBGraphicsProtractor.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBGraphicsProtractor.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBGraphicsRuler.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBGraphicsRuler.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBGraphicsTriangle.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBGraphicsTriangle.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/tools/WBToolsManager.h",
+			"MU",
+			"WFBKUIOS6C/moc_WBToolsManager.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/web/WBOEmbedParser.h",
+			"MU",
+			"BHN7RSUZQZ/moc_WBOEmbedParser.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/web/WBWebController.h",
+			"MU",
+			"BHN7RSUZQZ/moc_WBWebController.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/web/WBWebKitUtils.h",
+			"MU",
+			"BHN7RSUZQZ/moc_WBWebKitUtils.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/web/WBWebPage_.h",
+			"MU",
+			"BHN7RSUZQZ/moc_WBWebPage_.cpp",
+			null
+		],
+		[
+			"D:/WBoard/Source/web/WBWebPluginWidget.h",
+			"MU",
+			"BHN7RSUZQZ/moc_WBWebPluginWidget.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/WBoard/build/wboard_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/WBoard/build/wboard_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/WBoard/Source",
+		"D:/WBoard/ThirdParty/openssl/include",
+		"D:/WBoard/ThirdParty/quazip/include",
+		"C:/qc/6.5.3/mingw_64/include/QtCore",
+		"C:/qc/6.5.3/mingw_64/include",
+		"C:/qc/6.5.3/mingw_64/mkspecs/win32-g++",
+		"C:/qc/6.5.3/mingw_64/include/QtWidgets",
+		"C:/qc/6.5.3/mingw_64/include/QtGui",
+		"D:/env/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++",
+		"D:/env/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32",
+		"D:/env/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/backward",
+		"D:/env/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+		"D:/env/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed",
+		"D:/env/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/env/mingw64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/WBoard/build/wboard_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "D:/WBoard/build/CMakeFiles/wboard_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/qc/6.5.3/mingw_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/qc/6.5.3/mingw_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "D:/WBoard/build/CMakeFiles/wboard_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "D:/WBoard/Source/adaptors/WBCFFAdaptor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBCFFSubsetAdaptor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBExportAdaptor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBExportCFF.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBExportDocument.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/adaptors/WBExportDocumentSetAdaptor.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/adaptors/WBExportFullPDF.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBExportPDF.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBExportWeb.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBImportAdaptor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBImportCFF.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBImportDocument.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/adaptors/WBImportDocumentSetAdaptor.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/adaptors/WBImportImage.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBImportPDF.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBMetadataDcSubsetAdaptor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBSvgSubsetAdaptor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/adaptors/WBThumbnailAdaptor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/api/WBLibraryAPI.cpp", "MU", null ],
+		[ "D:/WBoard/Source/api/WBW3CWidgetAPI.cpp", "MU", null ],
+		[ "D:/WBoard/Source/api/WBWidgetMessageAPI.cpp", "MU", null ],
+		[ "D:/WBoard/Source/api/WBWidgetUniboardAPI.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBApplication.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBApplicationController.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBDisplayManager.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBDocumentManager.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBDownloadManager.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBDownloadThread.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBForeignObjectsHandler.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBIdleTimer.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBMimeData.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBOpenSankoreImporter.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBPersistenceManager.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBPersistenceWorker.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBPreferencesController.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBSceneCache.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBSetting.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBSettings.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/WBTextTools.cpp", "MU", null ],
+		[ "D:/WBoard/Source/core/main.cpp", "MU", null ],
+		[ "D:/WBoard/Source/customWidgets/WBActionableWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/customWidgets/WBGraphicsItemAction.cpp", "MU", null ],
+		[ "D:/WBoard/Source/customWidgets/WBMediaWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/desktop/WBCustomCaptureWindow.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/desktop/WBDesktopAnnotationController.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/desktop/WBDesktopPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/desktop/WBDesktopPropertyPalette.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/desktop/WBWindowCaptureDelegate_win.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/desktop/WBWindowCapture_win.cpp", "MU", null ],
+		[ "D:/WBoard/Source/document/WBDocumentContainer.cpp", "MU", null ],
+		[ "D:/WBoard/Source/document/WBDocumentController.cpp", "MU", null ],
+		[ "D:/WBoard/Source/document/WBDocumentProxy.cpp", "MU", null ],
+		[ "D:/WBoard/Source/document/WBSortFilterProxyModel.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBDragableThumbnail.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsDelegateFrame.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsGroupContainerItem.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsGroupContainerItemDelegate.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/domain/WBGraphicsItemDelegate.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsItemGroupUndoCommand.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsItemTransformUndoCommand.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/domain/WBGraphicsItemUndoCommand.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsItemZLevelUndoCommand.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/domain/WBGraphicsMediaItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsMediaItemDelegate.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsPDFItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsPixmapItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsPolygonItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsProxyWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsScene.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsStroke.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsStrokesGroup.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsSvgItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsTextItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBGraphicsTextItemDelegate.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsTextItemUndoCommand.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/domain/WBGraphicsWidgetItem.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/domain/WBGraphicsWidgetItemDelegate.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/domain/WBItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBPageSizeUndoCommand.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBResizableGraphicsItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBSelectionFrame.cpp", "MU", null ],
+		[ "D:/WBoard/Source/domain/WBUndoCommand.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBBase32.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBCoreGraphicsScene.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBCryptoUtils.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBFileSystemUtils.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBGeometryUtils.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBPlatformUtils.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBPlatformUtils_win.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBStringUtils.cpp", "MU", null ],
+		[ "D:/WBoard/Source/frameworks/WBVersion.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBActionPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBBackgroundPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBBlackoutWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBBoardThumbnailsView.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBCachePropertiesWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBCircleFrame.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBColorPicker.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBDockDownloadWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBDockPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBDockPaletteWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBDocumentNavigator.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBDocumentThumbnailWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBDocumentToolsPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBDocumentTreeWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBDownloadWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBFavoriteToolPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBFeaturesActionBar.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBFeaturesWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBFloatingPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBIconButton.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBKeyboardPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBKeyboardPalette_win.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBLeftPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBMagnifer.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBMainWindow.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBMessageWindow.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBMessagesDialog.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBMousePressFilter.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBOpenSankoreImporterWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBPageNavigationWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBPropertyPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBResources.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBRightPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBRubberBand.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBScreenMirror.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBSpinningWheel.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBStartupHintsPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBStylusPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBThumbnailView.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBThumbnailWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBToolWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBToolbarButtonGroup.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBUpdateDlg.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBWebToolsPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBWidgetMirror.cpp", "MU", null ],
+		[ "D:/WBoard/Source/gui/WBZoomPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/network/UBCookieJar.cpp", "MU", null ],
+		[ "D:/WBoard/Source/network/UBHttpFileDownloader.cpp", "MU", null ],
+		[ "D:/WBoard/Source/network/UBServerXMLHttpRequest.cpp", "MU", null ],
+		[ "D:/WBoard/Source/network/WBAutoSaver.cpp", "MU", null ],
+		[ "D:/WBoard/Source/network/WBHttpGet.cpp", "MU", null ],
+		[ "D:/WBoard/Source/network/WBNetworkAccessManager.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/ASCII85Decode.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/ASCIIHexDecode.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/AnnotsHandler.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/CCITTFaxDecode.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/ContentHandler.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/DCTDecode.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/Document.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/Filter.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/FilterPredictor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/FlateDecode.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/JBIG2Decode.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/LZWDecode.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/Merger.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/Object.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/OverlayDocumentParser.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/Page.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/PageElementHandler.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/Parser.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/Rectangle.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/RemoveHimselfHandler.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/RunLengthDecode.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf-merger/Utils.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf/GraphicsPDFItem.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf/PDFRenderer.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf/UBWebPluginPDFWidget.cpp", "MU", null ],
+		[ "D:/WBoard/Source/pdf/XPDFRenderer.cpp", "MU", null ],
+		[ "D:/WBoard/Source/podcast/WBAbstractVideoEncoder.cpp", "MU", null ],
+		[ "D:/WBoard/Source/podcast/WBPodcastController.cpp", "MU", null ],
+		[ "D:/WBoard/Source/podcast/WBPodcastRecordingPalette.cpp", "MU", null ],
+		[ "D:/WBoard/Source/qtsingleapplication/qtlocalpeer.cpp", "MU", null ],
+		[ "D:/WBoard/Source/qtsingleapplication/qtlockedfile.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/qtsingleapplication/qtlockedfile_win.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/WBoard/Source/qtsingleapplication/qtsingleapplication.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/tools/WBAbstractDrawRuler.cpp", "MU", null ],
+		[ "D:/WBoard/Source/tools/WBGraphicsCache.cpp", "MU", null ],
+		[ "D:/WBoard/Source/tools/WBGraphicsCompass.cpp", "MU", null ],
+		[ "D:/WBoard/Source/tools/WBGraphicsCurtainItem.cpp", "MU", null ],
+		[
+			"D:/WBoard/Source/tools/WBGraphicsCurtainItemDelegate.cpp",
+			"MU",
+			null
+		],
+		[ "D:/WBoard/Source/tools/WBGraphicsProtractor.cpp", "MU", null ],
+		[ "D:/WBoard/Source/tools/WBGraphicsRuler.cpp", "MU", null ],
+		[ "D:/WBoard/Source/tools/WBGraphicsTriangle.cpp", "MU", null ],
+		[ "D:/WBoard/Source/tools/WBToolsManager.cpp", "MU", null ],
+		[ "D:/WBoard/Source/web/WBOEmbedParser.cpp", "MU", null ],
+		[ "D:/WBoard/Source/web/WBWebController.cpp", "MU", null ],
+		[ "D:/WBoard/Source/web/WBWebKitUtils.cpp", "MU", null ],
+		[ "D:/WBoard/Source/web/WBWebPage_.cpp", "MU", null ],
+		[ "D:/WBoard/Source/web/WBWebPluginWidget.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

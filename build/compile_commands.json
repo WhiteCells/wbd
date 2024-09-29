@@ -1,0 +1,1148 @@
+[
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\wboard_autogen\\mocs_compilation.cpp.obj -c D:\\WBoard\\build\\wboard_autogen\\mocs_compilation.cpp",
+  "file": "D:/WBoard/build/wboard_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/wboard.dir/wboard_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBCFFAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBCFFAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBCFFAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBCFFAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBCFFSubsetAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBCFFSubsetAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBCFFSubsetAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBCFFSubsetAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBExportAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBExportAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBExportAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBExportAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBExportCFF.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBExportCFF.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBExportCFF.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBExportCFF.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBExportDocument.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBExportDocument.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBExportDocument.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBExportDocument.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBExportDocumentSetAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBExportDocumentSetAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBExportDocumentSetAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBExportDocumentSetAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBExportFullPDF.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBExportFullPDF.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBExportFullPDF.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBExportFullPDF.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBExportPDF.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBExportPDF.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBExportPDF.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBExportPDF.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBExportWeb.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBExportWeb.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBExportWeb.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBExportWeb.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBImportAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBImportAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBImportAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBImportAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBImportCFF.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBImportCFF.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBImportCFF.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBImportCFF.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBImportDocument.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBImportDocument.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBImportDocument.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBImportDocument.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBImportDocumentSetAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBImportDocumentSetAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBImportDocumentSetAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBImportDocumentSetAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBImportImage.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBImportImage.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBImportImage.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBImportImage.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBImportPDF.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBImportPDF.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBImportPDF.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBImportPDF.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBMetadataDcSubsetAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBMetadataDcSubsetAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBMetadataDcSubsetAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBMetadataDcSubsetAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBSvgSubsetAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBSvgSubsetAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBSvgSubsetAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBSvgSubsetAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\adaptors\\WBThumbnailAdaptor.cpp.obj -c D:\\WBoard\\Source\\adaptors\\WBThumbnailAdaptor.cpp",
+  "file": "D:/WBoard/Source/adaptors/WBThumbnailAdaptor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/adaptors/WBThumbnailAdaptor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\api\\WBLibraryAPI.cpp.obj -c D:\\WBoard\\Source\\api\\WBLibraryAPI.cpp",
+  "file": "D:/WBoard/Source/api/WBLibraryAPI.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/api/WBLibraryAPI.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\api\\WBW3CWidgetAPI.cpp.obj -c D:\\WBoard\\Source\\api\\WBW3CWidgetAPI.cpp",
+  "file": "D:/WBoard/Source/api/WBW3CWidgetAPI.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/api/WBW3CWidgetAPI.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\api\\WBWidgetMessageAPI.cpp.obj -c D:\\WBoard\\Source\\api\\WBWidgetMessageAPI.cpp",
+  "file": "D:/WBoard/Source/api/WBWidgetMessageAPI.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/api/WBWidgetMessageAPI.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\api\\WBWidgetUniboardAPI.cpp.obj -c D:\\WBoard\\Source\\api\\WBWidgetUniboardAPI.cpp",
+  "file": "D:/WBoard/Source/api/WBWidgetUniboardAPI.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/api/WBWidgetUniboardAPI.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBApplication.cpp.obj -c D:\\WBoard\\Source\\core\\WBApplication.cpp",
+  "file": "D:/WBoard/Source/core/WBApplication.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBApplication.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBApplicationController.cpp.obj -c D:\\WBoard\\Source\\core\\WBApplicationController.cpp",
+  "file": "D:/WBoard/Source/core/WBApplicationController.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBApplicationController.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBDisplayManager.cpp.obj -c D:\\WBoard\\Source\\core\\WBDisplayManager.cpp",
+  "file": "D:/WBoard/Source/core/WBDisplayManager.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBDisplayManager.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBDocumentManager.cpp.obj -c D:\\WBoard\\Source\\core\\WBDocumentManager.cpp",
+  "file": "D:/WBoard/Source/core/WBDocumentManager.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBDocumentManager.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBDownloadManager.cpp.obj -c D:\\WBoard\\Source\\core\\WBDownloadManager.cpp",
+  "file": "D:/WBoard/Source/core/WBDownloadManager.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBDownloadManager.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBDownloadThread.cpp.obj -c D:\\WBoard\\Source\\core\\WBDownloadThread.cpp",
+  "file": "D:/WBoard/Source/core/WBDownloadThread.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBDownloadThread.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBForeignObjectsHandler.cpp.obj -c D:\\WBoard\\Source\\core\\WBForeignObjectsHandler.cpp",
+  "file": "D:/WBoard/Source/core/WBForeignObjectsHandler.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBForeignObjectsHandler.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBIdleTimer.cpp.obj -c D:\\WBoard\\Source\\core\\WBIdleTimer.cpp",
+  "file": "D:/WBoard/Source/core/WBIdleTimer.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBIdleTimer.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBMimeData.cpp.obj -c D:\\WBoard\\Source\\core\\WBMimeData.cpp",
+  "file": "D:/WBoard/Source/core/WBMimeData.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBMimeData.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBOpenSankoreImporter.cpp.obj -c D:\\WBoard\\Source\\core\\WBOpenSankoreImporter.cpp",
+  "file": "D:/WBoard/Source/core/WBOpenSankoreImporter.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBOpenSankoreImporter.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBPersistenceManager.cpp.obj -c D:\\WBoard\\Source\\core\\WBPersistenceManager.cpp",
+  "file": "D:/WBoard/Source/core/WBPersistenceManager.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBPersistenceManager.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBPersistenceWorker.cpp.obj -c D:\\WBoard\\Source\\core\\WBPersistenceWorker.cpp",
+  "file": "D:/WBoard/Source/core/WBPersistenceWorker.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBPersistenceWorker.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBPreferencesController.cpp.obj -c D:\\WBoard\\Source\\core\\WBPreferencesController.cpp",
+  "file": "D:/WBoard/Source/core/WBPreferencesController.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBPreferencesController.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBSceneCache.cpp.obj -c D:\\WBoard\\Source\\core\\WBSceneCache.cpp",
+  "file": "D:/WBoard/Source/core/WBSceneCache.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBSceneCache.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBSetting.cpp.obj -c D:\\WBoard\\Source\\core\\WBSetting.cpp",
+  "file": "D:/WBoard/Source/core/WBSetting.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBSetting.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBSettings.cpp.obj -c D:\\WBoard\\Source\\core\\WBSettings.cpp",
+  "file": "D:/WBoard/Source/core/WBSettings.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBSettings.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\WBTextTools.cpp.obj -c D:\\WBoard\\Source\\core\\WBTextTools.cpp",
+  "file": "D:/WBoard/Source/core/WBTextTools.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/WBTextTools.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\core\\main.cpp.obj -c D:\\WBoard\\Source\\core\\main.cpp",
+  "file": "D:/WBoard/Source/core/main.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/core/main.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\customWidgets\\WBActionableWidget.cpp.obj -c D:\\WBoard\\Source\\customWidgets\\WBActionableWidget.cpp",
+  "file": "D:/WBoard/Source/customWidgets/WBActionableWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/customWidgets/WBActionableWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\customWidgets\\WBGraphicsItemAction.cpp.obj -c D:\\WBoard\\Source\\customWidgets\\WBGraphicsItemAction.cpp",
+  "file": "D:/WBoard/Source/customWidgets/WBGraphicsItemAction.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/customWidgets/WBGraphicsItemAction.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\customWidgets\\WBMediaWidget.cpp.obj -c D:\\WBoard\\Source\\customWidgets\\WBMediaWidget.cpp",
+  "file": "D:/WBoard/Source/customWidgets/WBMediaWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/customWidgets/WBMediaWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\desktop\\WBCustomCaptureWindow.cpp.obj -c D:\\WBoard\\Source\\desktop\\WBCustomCaptureWindow.cpp",
+  "file": "D:/WBoard/Source/desktop/WBCustomCaptureWindow.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/desktop/WBCustomCaptureWindow.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\desktop\\WBDesktopAnnotationController.cpp.obj -c D:\\WBoard\\Source\\desktop\\WBDesktopAnnotationController.cpp",
+  "file": "D:/WBoard/Source/desktop/WBDesktopAnnotationController.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/desktop/WBDesktopAnnotationController.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\desktop\\WBDesktopPalette.cpp.obj -c D:\\WBoard\\Source\\desktop\\WBDesktopPalette.cpp",
+  "file": "D:/WBoard/Source/desktop/WBDesktopPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/desktop/WBDesktopPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\desktop\\WBDesktopPropertyPalette.cpp.obj -c D:\\WBoard\\Source\\desktop\\WBDesktopPropertyPalette.cpp",
+  "file": "D:/WBoard/Source/desktop/WBDesktopPropertyPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/desktop/WBDesktopPropertyPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\desktop\\WBWindowCaptureDelegate_win.cpp.obj -c D:\\WBoard\\Source\\desktop\\WBWindowCaptureDelegate_win.cpp",
+  "file": "D:/WBoard/Source/desktop/WBWindowCaptureDelegate_win.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/desktop/WBWindowCaptureDelegate_win.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\desktop\\WBWindowCapture_win.cpp.obj -c D:\\WBoard\\Source\\desktop\\WBWindowCapture_win.cpp",
+  "file": "D:/WBoard/Source/desktop/WBWindowCapture_win.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/desktop/WBWindowCapture_win.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\document\\WBDocumentContainer.cpp.obj -c D:\\WBoard\\Source\\document\\WBDocumentContainer.cpp",
+  "file": "D:/WBoard/Source/document/WBDocumentContainer.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/document/WBDocumentContainer.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\document\\WBDocumentController.cpp.obj -c D:\\WBoard\\Source\\document\\WBDocumentController.cpp",
+  "file": "D:/WBoard/Source/document/WBDocumentController.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/document/WBDocumentController.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\document\\WBDocumentProxy.cpp.obj -c D:\\WBoard\\Source\\document\\WBDocumentProxy.cpp",
+  "file": "D:/WBoard/Source/document/WBDocumentProxy.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/document/WBDocumentProxy.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\document\\WBSortFilterProxyModel.cpp.obj -c D:\\WBoard\\Source\\document\\WBSortFilterProxyModel.cpp",
+  "file": "D:/WBoard/Source/document/WBSortFilterProxyModel.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/document/WBSortFilterProxyModel.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBDragableThumbnail.cpp.obj -c D:\\WBoard\\Source\\domain\\WBDragableThumbnail.cpp",
+  "file": "D:/WBoard/Source/domain/WBDragableThumbnail.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBDragableThumbnail.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsDelegateFrame.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsDelegateFrame.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsDelegateFrame.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsDelegateFrame.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsGroupContainerItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsGroupContainerItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsGroupContainerItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsGroupContainerItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsGroupContainerItemDelegate.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsGroupContainerItemDelegate.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsGroupContainerItemDelegate.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsGroupContainerItemDelegate.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsItemDelegate.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsItemDelegate.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsItemDelegate.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsItemDelegate.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsItemGroupUndoCommand.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsItemGroupUndoCommand.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsItemGroupUndoCommand.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsItemGroupUndoCommand.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsItemTransformUndoCommand.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsItemTransformUndoCommand.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsItemTransformUndoCommand.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsItemTransformUndoCommand.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsItemUndoCommand.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsItemUndoCommand.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsItemUndoCommand.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsItemUndoCommand.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsItemZLevelUndoCommand.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsItemZLevelUndoCommand.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsItemZLevelUndoCommand.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsItemZLevelUndoCommand.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsMediaItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsMediaItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsMediaItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsMediaItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsMediaItemDelegate.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsMediaItemDelegate.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsMediaItemDelegate.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsMediaItemDelegate.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsPDFItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsPDFItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsPDFItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsPDFItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsPixmapItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsPixmapItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsPixmapItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsPixmapItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsPolygonItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsPolygonItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsPolygonItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsPolygonItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsProxyWidget.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsProxyWidget.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsProxyWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsProxyWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsScene.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsScene.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsScene.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsScene.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsStroke.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsStroke.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsStroke.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsStroke.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsStrokesGroup.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsStrokesGroup.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsStrokesGroup.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsStrokesGroup.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsSvgItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsSvgItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsSvgItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsSvgItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsTextItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsTextItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsTextItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsTextItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsTextItemDelegate.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsTextItemDelegate.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsTextItemDelegate.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsTextItemDelegate.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsTextItemUndoCommand.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsTextItemUndoCommand.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsTextItemUndoCommand.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsTextItemUndoCommand.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsWidgetItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsWidgetItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsWidgetItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsWidgetItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBGraphicsWidgetItemDelegate.cpp.obj -c D:\\WBoard\\Source\\domain\\WBGraphicsWidgetItemDelegate.cpp",
+  "file": "D:/WBoard/Source/domain/WBGraphicsWidgetItemDelegate.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBGraphicsWidgetItemDelegate.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBPageSizeUndoCommand.cpp.obj -c D:\\WBoard\\Source\\domain\\WBPageSizeUndoCommand.cpp",
+  "file": "D:/WBoard/Source/domain/WBPageSizeUndoCommand.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBPageSizeUndoCommand.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBResizableGraphicsItem.cpp.obj -c D:\\WBoard\\Source\\domain\\WBResizableGraphicsItem.cpp",
+  "file": "D:/WBoard/Source/domain/WBResizableGraphicsItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBResizableGraphicsItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBSelectionFrame.cpp.obj -c D:\\WBoard\\Source\\domain\\WBSelectionFrame.cpp",
+  "file": "D:/WBoard/Source/domain/WBSelectionFrame.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBSelectionFrame.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\domain\\WBUndoCommand.cpp.obj -c D:\\WBoard\\Source\\domain\\WBUndoCommand.cpp",
+  "file": "D:/WBoard/Source/domain/WBUndoCommand.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/domain/WBUndoCommand.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBBase32.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBBase32.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBBase32.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBBase32.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBCoreGraphicsScene.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBCoreGraphicsScene.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBCoreGraphicsScene.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBCoreGraphicsScene.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBCryptoUtils.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBCryptoUtils.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBCryptoUtils.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBCryptoUtils.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBFileSystemUtils.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBFileSystemUtils.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBFileSystemUtils.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBFileSystemUtils.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBGeometryUtils.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBGeometryUtils.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBGeometryUtils.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBGeometryUtils.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBPlatformUtils.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBPlatformUtils.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBPlatformUtils.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBPlatformUtils.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBPlatformUtils_win.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBPlatformUtils_win.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBPlatformUtils_win.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBPlatformUtils_win.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBStringUtils.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBStringUtils.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBStringUtils.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBStringUtils.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\frameworks\\WBVersion.cpp.obj -c D:\\WBoard\\Source\\frameworks\\WBVersion.cpp",
+  "file": "D:/WBoard/Source/frameworks/WBVersion.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/frameworks/WBVersion.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBActionPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBActionPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBActionPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBActionPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBBackgroundPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBBackgroundPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBBackgroundPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBBackgroundPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBBlackoutWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBBlackoutWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBBlackoutWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBBlackoutWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBBoardThumbnailsView.cpp.obj -c D:\\WBoard\\Source\\gui\\WBBoardThumbnailsView.cpp",
+  "file": "D:/WBoard/Source/gui/WBBoardThumbnailsView.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBBoardThumbnailsView.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBCachePropertiesWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBCachePropertiesWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBCachePropertiesWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBCachePropertiesWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBCircleFrame.cpp.obj -c D:\\WBoard\\Source\\gui\\WBCircleFrame.cpp",
+  "file": "D:/WBoard/Source/gui/WBCircleFrame.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBCircleFrame.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBColorPicker.cpp.obj -c D:\\WBoard\\Source\\gui\\WBColorPicker.cpp",
+  "file": "D:/WBoard/Source/gui/WBColorPicker.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBColorPicker.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBDockDownloadWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBDockDownloadWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBDockDownloadWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBDockDownloadWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBDockPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBDockPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBDockPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBDockPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBDockPaletteWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBDockPaletteWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBDockPaletteWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBDockPaletteWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBDocumentNavigator.cpp.obj -c D:\\WBoard\\Source\\gui\\WBDocumentNavigator.cpp",
+  "file": "D:/WBoard/Source/gui/WBDocumentNavigator.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBDocumentNavigator.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBDocumentThumbnailWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBDocumentThumbnailWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBDocumentThumbnailWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBDocumentThumbnailWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBDocumentToolsPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBDocumentToolsPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBDocumentToolsPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBDocumentToolsPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBDocumentTreeWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBDocumentTreeWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBDocumentTreeWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBDocumentTreeWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBDownloadWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBDownloadWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBDownloadWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBDownloadWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBFavoriteToolPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBFavoriteToolPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBFavoriteToolPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBFavoriteToolPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBFeaturesActionBar.cpp.obj -c D:\\WBoard\\Source\\gui\\WBFeaturesActionBar.cpp",
+  "file": "D:/WBoard/Source/gui/WBFeaturesActionBar.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBFeaturesActionBar.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBFeaturesWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBFeaturesWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBFeaturesWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBFeaturesWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBFloatingPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBFloatingPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBFloatingPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBFloatingPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBIconButton.cpp.obj -c D:\\WBoard\\Source\\gui\\WBIconButton.cpp",
+  "file": "D:/WBoard/Source/gui/WBIconButton.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBIconButton.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBKeyboardPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBKeyboardPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBKeyboardPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBKeyboardPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBKeyboardPalette_win.cpp.obj -c D:\\WBoard\\Source\\gui\\WBKeyboardPalette_win.cpp",
+  "file": "D:/WBoard/Source/gui/WBKeyboardPalette_win.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBKeyboardPalette_win.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBLeftPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBLeftPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBLeftPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBLeftPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBMagnifer.cpp.obj -c D:\\WBoard\\Source\\gui\\WBMagnifer.cpp",
+  "file": "D:/WBoard/Source/gui/WBMagnifer.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBMagnifer.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBMainWindow.cpp.obj -c D:\\WBoard\\Source\\gui\\WBMainWindow.cpp",
+  "file": "D:/WBoard/Source/gui/WBMainWindow.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBMainWindow.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBMessageWindow.cpp.obj -c D:\\WBoard\\Source\\gui\\WBMessageWindow.cpp",
+  "file": "D:/WBoard/Source/gui/WBMessageWindow.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBMessageWindow.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBMessagesDialog.cpp.obj -c D:\\WBoard\\Source\\gui\\WBMessagesDialog.cpp",
+  "file": "D:/WBoard/Source/gui/WBMessagesDialog.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBMessagesDialog.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBMousePressFilter.cpp.obj -c D:\\WBoard\\Source\\gui\\WBMousePressFilter.cpp",
+  "file": "D:/WBoard/Source/gui/WBMousePressFilter.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBMousePressFilter.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBOpenSankoreImporterWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBOpenSankoreImporterWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBOpenSankoreImporterWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBOpenSankoreImporterWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBPageNavigationWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBPageNavigationWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBPageNavigationWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBPageNavigationWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBPropertyPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBPropertyPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBPropertyPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBPropertyPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBResources.cpp.obj -c D:\\WBoard\\Source\\gui\\WBResources.cpp",
+  "file": "D:/WBoard/Source/gui/WBResources.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBResources.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBRightPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBRightPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBRightPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBRightPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBRubberBand.cpp.obj -c D:\\WBoard\\Source\\gui\\WBRubberBand.cpp",
+  "file": "D:/WBoard/Source/gui/WBRubberBand.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBRubberBand.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBScreenMirror.cpp.obj -c D:\\WBoard\\Source\\gui\\WBScreenMirror.cpp",
+  "file": "D:/WBoard/Source/gui/WBScreenMirror.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBScreenMirror.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBSpinningWheel.cpp.obj -c D:\\WBoard\\Source\\gui\\WBSpinningWheel.cpp",
+  "file": "D:/WBoard/Source/gui/WBSpinningWheel.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBSpinningWheel.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBStartupHintsPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBStartupHintsPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBStartupHintsPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBStartupHintsPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBStylusPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBStylusPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBStylusPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBStylusPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBThumbnailView.cpp.obj -c D:\\WBoard\\Source\\gui\\WBThumbnailView.cpp",
+  "file": "D:/WBoard/Source/gui/WBThumbnailView.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBThumbnailView.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBThumbnailWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBThumbnailWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBThumbnailWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBThumbnailWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBToolWidget.cpp.obj -c D:\\WBoard\\Source\\gui\\WBToolWidget.cpp",
+  "file": "D:/WBoard/Source/gui/WBToolWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBToolWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBToolbarButtonGroup.cpp.obj -c D:\\WBoard\\Source\\gui\\WBToolbarButtonGroup.cpp",
+  "file": "D:/WBoard/Source/gui/WBToolbarButtonGroup.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBToolbarButtonGroup.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBUpdateDlg.cpp.obj -c D:\\WBoard\\Source\\gui\\WBUpdateDlg.cpp",
+  "file": "D:/WBoard/Source/gui/WBUpdateDlg.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBUpdateDlg.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBWebToolsPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBWebToolsPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBWebToolsPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBWebToolsPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBWidgetMirror.cpp.obj -c D:\\WBoard\\Source\\gui\\WBWidgetMirror.cpp",
+  "file": "D:/WBoard/Source/gui/WBWidgetMirror.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBWidgetMirror.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\gui\\WBZoomPalette.cpp.obj -c D:\\WBoard\\Source\\gui\\WBZoomPalette.cpp",
+  "file": "D:/WBoard/Source/gui/WBZoomPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/gui/WBZoomPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\network\\UBCookieJar.cpp.obj -c D:\\WBoard\\Source\\network\\UBCookieJar.cpp",
+  "file": "D:/WBoard/Source/network/UBCookieJar.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/network/UBCookieJar.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\network\\UBHttpFileDownloader.cpp.obj -c D:\\WBoard\\Source\\network\\UBHttpFileDownloader.cpp",
+  "file": "D:/WBoard/Source/network/UBHttpFileDownloader.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/network/UBHttpFileDownloader.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\network\\UBServerXMLHttpRequest.cpp.obj -c D:\\WBoard\\Source\\network\\UBServerXMLHttpRequest.cpp",
+  "file": "D:/WBoard/Source/network/UBServerXMLHttpRequest.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/network/UBServerXMLHttpRequest.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\network\\WBAutoSaver.cpp.obj -c D:\\WBoard\\Source\\network\\WBAutoSaver.cpp",
+  "file": "D:/WBoard/Source/network/WBAutoSaver.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/network/WBAutoSaver.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\network\\WBHttpGet.cpp.obj -c D:\\WBoard\\Source\\network\\WBHttpGet.cpp",
+  "file": "D:/WBoard/Source/network/WBHttpGet.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/network/WBHttpGet.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\network\\WBNetworkAccessManager.cpp.obj -c D:\\WBoard\\Source\\network\\WBNetworkAccessManager.cpp",
+  "file": "D:/WBoard/Source/network/WBNetworkAccessManager.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/network/WBNetworkAccessManager.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf\\GraphicsPDFItem.cpp.obj -c D:\\WBoard\\Source\\pdf\\GraphicsPDFItem.cpp",
+  "file": "D:/WBoard/Source/pdf/GraphicsPDFItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf/GraphicsPDFItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf\\PDFRenderer.cpp.obj -c D:\\WBoard\\Source\\pdf\\PDFRenderer.cpp",
+  "file": "D:/WBoard/Source/pdf/PDFRenderer.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf/PDFRenderer.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf\\UBWebPluginPDFWidget.cpp.obj -c D:\\WBoard\\Source\\pdf\\UBWebPluginPDFWidget.cpp",
+  "file": "D:/WBoard/Source/pdf/UBWebPluginPDFWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf/UBWebPluginPDFWidget.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf\\XPDFRenderer.cpp.obj -c D:\\WBoard\\Source\\pdf\\XPDFRenderer.cpp",
+  "file": "D:/WBoard/Source/pdf/XPDFRenderer.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf/XPDFRenderer.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\ASCII85Decode.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\ASCII85Decode.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/ASCII85Decode.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/ASCII85Decode.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\ASCIIHexDecode.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\ASCIIHexDecode.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/ASCIIHexDecode.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/ASCIIHexDecode.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\AnnotsHandler.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\AnnotsHandler.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/AnnotsHandler.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/AnnotsHandler.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\CCITTFaxDecode.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\CCITTFaxDecode.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/CCITTFaxDecode.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/CCITTFaxDecode.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\ContentHandler.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\ContentHandler.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/ContentHandler.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/ContentHandler.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\DCTDecode.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\DCTDecode.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/DCTDecode.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/DCTDecode.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\Document.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\Document.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/Document.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/Document.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\Filter.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\Filter.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/Filter.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/Filter.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\FilterPredictor.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\FilterPredictor.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/FilterPredictor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/FilterPredictor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\FlateDecode.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\FlateDecode.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/FlateDecode.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/FlateDecode.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\JBIG2Decode.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\JBIG2Decode.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/JBIG2Decode.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/JBIG2Decode.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\LZWDecode.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\LZWDecode.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/LZWDecode.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/LZWDecode.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\Merger.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\Merger.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/Merger.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/Merger.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\Object.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\Object.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/Object.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/Object.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\OverlayDocumentParser.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\OverlayDocumentParser.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/OverlayDocumentParser.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/OverlayDocumentParser.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\Page.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\Page.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/Page.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/Page.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\PageElementHandler.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\PageElementHandler.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/PageElementHandler.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/PageElementHandler.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\Parser.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\Parser.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/Parser.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/Parser.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\Rectangle.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\Rectangle.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/Rectangle.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/Rectangle.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\RemoveHimselfHandler.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\RemoveHimselfHandler.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/RemoveHimselfHandler.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/RemoveHimselfHandler.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\RunLengthDecode.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\RunLengthDecode.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/RunLengthDecode.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/RunLengthDecode.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\pdf-merger\\Utils.cpp.obj -c D:\\WBoard\\Source\\pdf-merger\\Utils.cpp",
+  "file": "D:/WBoard/Source/pdf-merger/Utils.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/pdf-merger/Utils.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\podcast\\WBAbstractVideoEncoder.cpp.obj -c D:\\WBoard\\Source\\podcast\\WBAbstractVideoEncoder.cpp",
+  "file": "D:/WBoard/Source/podcast/WBAbstractVideoEncoder.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/podcast/WBAbstractVideoEncoder.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\podcast\\WBPodcastController.cpp.obj -c D:\\WBoard\\Source\\podcast\\WBPodcastController.cpp",
+  "file": "D:/WBoard/Source/podcast/WBPodcastController.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/podcast/WBPodcastController.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\podcast\\WBPodcastRecordingPalette.cpp.obj -c D:\\WBoard\\Source\\podcast\\WBPodcastRecordingPalette.cpp",
+  "file": "D:/WBoard/Source/podcast/WBPodcastRecordingPalette.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/podcast/WBPodcastRecordingPalette.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\qtsingleapplication\\qtlocalpeer.cpp.obj -c D:\\WBoard\\Source\\qtsingleapplication\\qtlocalpeer.cpp",
+  "file": "D:/WBoard/Source/qtsingleapplication/qtlocalpeer.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/qtsingleapplication/qtlocalpeer.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\qtsingleapplication\\qtlockedfile.cpp.obj -c D:\\WBoard\\Source\\qtsingleapplication\\qtlockedfile.cpp",
+  "file": "D:/WBoard/Source/qtsingleapplication/qtlockedfile.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/qtsingleapplication/qtlockedfile.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\qtsingleapplication\\qtlockedfile_win.cpp.obj -c D:\\WBoard\\Source\\qtsingleapplication\\qtlockedfile_win.cpp",
+  "file": "D:/WBoard/Source/qtsingleapplication/qtlockedfile_win.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/qtsingleapplication/qtlockedfile_win.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\qtsingleapplication\\qtsingleapplication.cpp.obj -c D:\\WBoard\\Source\\qtsingleapplication\\qtsingleapplication.cpp",
+  "file": "D:/WBoard/Source/qtsingleapplication/qtsingleapplication.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/qtsingleapplication/qtsingleapplication.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBAbstractDrawRuler.cpp.obj -c D:\\WBoard\\Source\\tools\\WBAbstractDrawRuler.cpp",
+  "file": "D:/WBoard/Source/tools/WBAbstractDrawRuler.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBAbstractDrawRuler.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBGraphicsCache.cpp.obj -c D:\\WBoard\\Source\\tools\\WBGraphicsCache.cpp",
+  "file": "D:/WBoard/Source/tools/WBGraphicsCache.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBGraphicsCache.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBGraphicsCompass.cpp.obj -c D:\\WBoard\\Source\\tools\\WBGraphicsCompass.cpp",
+  "file": "D:/WBoard/Source/tools/WBGraphicsCompass.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBGraphicsCompass.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBGraphicsCurtainItem.cpp.obj -c D:\\WBoard\\Source\\tools\\WBGraphicsCurtainItem.cpp",
+  "file": "D:/WBoard/Source/tools/WBGraphicsCurtainItem.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBGraphicsCurtainItem.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBGraphicsCurtainItemDelegate.cpp.obj -c D:\\WBoard\\Source\\tools\\WBGraphicsCurtainItemDelegate.cpp",
+  "file": "D:/WBoard/Source/tools/WBGraphicsCurtainItemDelegate.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBGraphicsCurtainItemDelegate.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBGraphicsProtractor.cpp.obj -c D:\\WBoard\\Source\\tools\\WBGraphicsProtractor.cpp",
+  "file": "D:/WBoard/Source/tools/WBGraphicsProtractor.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBGraphicsProtractor.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBGraphicsRuler.cpp.obj -c D:\\WBoard\\Source\\tools\\WBGraphicsRuler.cpp",
+  "file": "D:/WBoard/Source/tools/WBGraphicsRuler.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBGraphicsRuler.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBGraphicsTriangle.cpp.obj -c D:\\WBoard\\Source\\tools\\WBGraphicsTriangle.cpp",
+  "file": "D:/WBoard/Source/tools/WBGraphicsTriangle.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBGraphicsTriangle.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\tools\\WBToolsManager.cpp.obj -c D:\\WBoard\\Source\\tools\\WBToolsManager.cpp",
+  "file": "D:/WBoard/Source/tools/WBToolsManager.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/tools/WBToolsManager.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\web\\WBOEmbedParser.cpp.obj -c D:\\WBoard\\Source\\web\\WBOEmbedParser.cpp",
+  "file": "D:/WBoard/Source/web/WBOEmbedParser.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/web/WBOEmbedParser.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\web\\WBWebController.cpp.obj -c D:\\WBoard\\Source\\web\\WBWebController.cpp",
+  "file": "D:/WBoard/Source/web/WBWebController.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/web/WBWebController.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\web\\WBWebKitUtils.cpp.obj -c D:\\WBoard\\Source\\web\\WBWebKitUtils.cpp",
+  "file": "D:/WBoard/Source/web/WBWebKitUtils.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/web/WBWebKitUtils.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\web\\WBWebPage_.cpp.obj -c D:\\WBoard\\Source\\web\\WBWebPage_.cpp",
+  "file": "D:/WBoard/Source/web/WBWebPage_.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/web/WBWebPage_.cpp.obj"
+},
+{
+  "directory": "D:/WBoard/build",
+  "command": "D:\\env\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/wboard.dir/includes_CXX.rsp -g -std=gnu++17 -pthread -o CMakeFiles\\wboard.dir\\Source\\web\\WBWebPluginWidget.cpp.obj -c D:\\WBoard\\Source\\web\\WBWebPluginWidget.cpp",
+  "file": "D:/WBoard/Source/web/WBWebPluginWidget.cpp",
+  "output": "CMakeFiles/wboard.dir/Source/web/WBWebPluginWidget.cpp.obj"
+}
+]

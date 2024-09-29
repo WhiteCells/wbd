@@ -1,0 +1,1 @@
+-ID:/WBoard/build/wboard_autogen/include -ID:/WBoard/Source -ID:/WBoard/ThirdParty/openssl/include -ID:/WBoard/ThirdParty/quazip/include -isystem C:/qc/6.5.3/mingw_64/include/QtCore -isystem C:/qc/6.5.3/mingw_64/include -isystem "C:/qc/6.5.3/mingw_64/mkspecs/win32-g++" -isystem C:/qc/6.5.3/mingw_64/include/QtWidgets -isystem C:/qc/6.5.3/mingw_64/include/QtGui

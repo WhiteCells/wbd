@@ -1,0 +1,5 @@
+D:/WBoard/build/CMakeFiles/wboard.dir
+D:/WBoard/build/CMakeFiles/edit_cache.dir
+D:/WBoard/build/CMakeFiles/rebuild_cache.dir
+D:/WBoard/build/CMakeFiles/wboard_autogen_timestamp_deps.dir
+D:/WBoard/build/CMakeFiles/wboard_autogen.dir
